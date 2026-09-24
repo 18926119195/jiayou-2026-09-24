@@ -1,0 +1,61 @@
+# call-0016-response.json
+
+> **路径**: `问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z2-Q3\call-0016-response.json`  
+> **分类**: 配置 / 数据  
+> **大小**: 1.4 KB  
+> **最后修改**: 2026-09-24T11:45:14.860Z  
+
+## 文件开头预览
+
+```json
+{
+  "callId": "call-0016",
+  "questionId": "Z2-Q3",
+  "timestamp": "2026-09-24T11-45-14-260Z",
+  "elapsed": 599,
+  "success": true,
+  "error": null,
+  "attempts": 1,
+  "retries": 0,
+  "retryHistory": [
+    {
+      "attempt": 1,
+      "startedAt": "2026-09-24T11:45:14.260Z",
+      "error": null,
+      "httpStatus": null,
+      "elapsedMs": 599
+    }
+  ],
+  "response": {
+    "text": "NONE",
+    "usage": {
+      "prompt_tokens": 3591,
+      "completion_tokens": 2,
+      "total_tokens": 3593,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 3591
+    },
+    "truncated": false,
+    "finishReason": "stop"
+  },
+  "rawResponse": {
+    "id": "0bf9af27-f86a-43ce-9b48-c51ea8b171e9",
+    "object": "chat.completion",
+    "created": 1790250314,
+    "model": "deepseek-flash",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "NONE"
+        },
+        "logprobs": null,
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+```

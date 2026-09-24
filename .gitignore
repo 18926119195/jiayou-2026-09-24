@@ -1,0 +1,14 @@
+# Build artifacts
+node_modules/
+*.log
+.env.local
+
+# Large runtime outputs (we keep the .md navigation only)
+*.tmp
+*.bak
+
+# Internal cursor data (kept only as MD nav)
+agent-transcripts/
+terminals/
+canvases/
+mcps/

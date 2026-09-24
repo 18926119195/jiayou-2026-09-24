@@ -1,0 +1,23 @@
+# call-0310-request.json
+
+> **路径**: `snapshots\call-0310-request.json`  
+> **分类**: 配置 / 数据  
+> **大小**: 6.3 KB  
+> **最后修改**: 2026-09-24T10:16:12.669Z  
+
+## 文件开头预览
+
+```json
+{
+  "callId": "call-0310",
+  "timestamp": "2026-09-24T10-16-12-668Z",
+  "promptLength": 3538,
+  "promptPreview": "问题: 拉康的三元结构（想象界、符号界、真实界）如何应用于临床？\n\n从下列名词中，选出所有对回答这个问题可能有帮助的词。只回答相关词的机器符号，例如：【【1】】【【5】】【【17】】\n如果没有任何相关词，回答：NONE\n\n词语列表：\n【【1】】valeur non discursis\n【【2】】valeur traditionnels\n【【3】】valeurs capitalisatiques\n【【4】】valeurs cognitives\n【【5】】valeurs génériques\n【【6】】valeurs transcendantes\n【【7】】valeurs universelles\n【【8】】validation\n【【9】】valorisation anthropocentrique\n【【10】】valorisation individuels et collectifs\n【【11】】values existentiels\n【【12】】Vareta\n【【13】】variables potentielles\n【【14】】variation continue\n【【15】】var...",
+  "fullPrompt": "问题: 拉康的三元结构（想象界、符号界、真实界）如何应用于临床？\n\n从下列名词中，选出所有对回答这个问题可能有帮助的词。只回答相关词的机器符号，例如：【【1】】【【5】】【【17】】\n如果没有任何相关词，回答：NONE\n\n词语列表：\n【【1】】valeur non discursis\n【【2】】valeur traditionnels\n【【3】】valeurs capitalisatiques\n【【4】】valeurs cognitives\n【【5】】valeurs génériques\n【【6】】valeurs transcendantes\n【【7】】valeurs universelles\n【【8】】validation\n【【9】】valorisation anthropocentrique\n【【10】】valorisation individuels et collectifs\n【【11】】values existentiels\n【【12】】Vareta\n【【13】】variables potentielles\n【【14】】variation continue\n【【15】】variations continues\n【【16】】varie\n【【17】】vecteurs machiniques\n【【18】】vectorielle\n【【19】】vécu sensible et relationnel\n【【20】】vécue aujourd'hui comme en un enfier\n【【21】】vécus\n【【22】】veectures bijectifs\n【【23】】véhicule\n【【24】】veille\n【【25】】veilleuse\n【【26】】Velleyter\n【【27】】velo\n【【28】】Venons\n【【29】】venu\n【【30】】ver\n【【31】】verbales\n【【32】】vériablement\n【【33】】véritable\n【【34】】véritablement\n【【35】】vérite\n【【36】】vermine\n【【37】】verraient\n【【38】】verres\n【【39】】vers une reterritorialisation\n【【40】】versage\n【【41】】Versailles\n【【42】】versants\n【【43】】verson insimulation\n【【44】】vert\n【【45】】vertical\n【【46】】verticale\n【【47】】verticalement\n【【48】】vertu\n【【49】】vetements\n【【50】】vêtements humaines\n【【51】】vêtir\n【【52】】veu sept années\n【【53】】vibration\n【【54】】viciuen ou bien feed\n【【55】】victorie\n【【56】】vides\n【【57】】vieille\n【【58】】viennent\n【【59】】vierge\n【【60】】Vieux Continent\n【【61】】vigilance\n【【62】】Viktor\n【【63】】villes satellites\n【【64】】vilsamprisient\n【【65】】vingt angles\n【【66】】vingt fois\n【【67】】Vintéui\n【【68】】Vinteuil\n【【69】】Vintueli\n【【70】】violence sexuelle\n【【71】】violente\n【【72】】vipe\n【【73】】virages\n【【74】】Virtisation enoncictive\n【【75】】virtualisation\n【【76】】virtualité*\n【【77】】virtualités negent\n【【78】】virtuelle\n【【79】】Virtuelproposition\n【【80】】virus\n【【81】】visage droit\n【【82】】visage gauche\n【【83】】visage humain\n【【84】】visage¹\n【【85】】visageät\n【【86】】visageätites\n【【87】】visagéte\n【【88】】visagièreit\n【【89】】visagitale\n【【90】】visagité\n【【91】】vise\n【【92】】visibilité\n【【93】】visibles\n【【94】】visiteurs\n【【95】】visuel\n【【96】】vital\n【【97】】vitaux\n【【98】】vitesse *\n【【99】】vitesse absolue2\n【【100】】vitesse hyper-ralentie\n【【101】】vitesse infine\n【【102】】vitesse nulle\n【【103】】vitesses inférieures ou égales à celle de la lumière\n【【104】】vitesses possibles\n【【105】】vitesses relatives de référence\n【【106】】Vitruv\n【【107】】Vittorio\n【【108】】vivais\n【【109】】vivantes\n【【110】】vivants\n【【111】】vocal\n【【112】】vocation hégemonique\n【【113】】voies chrétiennes\n【【114】】voil!\n【【115】】voilà\n【【116】】Voilla\n【【117】】vois\n【【118】】voix hétérogenes\n【【119】】voix hétérônes\n【【120】】vol\n【【121】】volant\n【【122】】volantes\n【【123】】vole opérationnelle à la recomposition locale de Territoires existentiels\n【【124】】volets\n【【125】】voleur *\n【【126】】volontés libératrices\n【【127】】volunt\n【【128】】von Bertalanfayl\n【【129】】Vorstellungserpensantz\n【【130】】vos yeux\n【【131】】votre colloque\n【【132】】votre lettre\n【【133】】voulais\n【【134】】voulions\n【【135】】voulour\n【【136】】voute\n【【137】】voyance substantif\n【【138】】voyeurie-persécutive\n【【139】】vraiment en mesure\n【【140】】Vu ducha réel\n【【141】】Washington\n【【142】】WERNER\n【【143】】Whitehead\n【【144】】Wilhelm Reich\n【【145】】Winniccot\n【【146】】Winnicott\n【【147】】xièx\n【【148】】xr sicle *\n【【149】】XU\n【【150】】xx²\n【【151】】y compris à des risques\n【【152】】y compris des sases secrètes\n【【153】】y compris par l'utilisation\n【【154】】y faisant retour\n【【155】】Yascha David et de son épouse jés s dors une maison A\n【【156】】Yasha croit se souvenir de l'endroit où elle est.\n【【157】】Yasha David et le lapsus dans le rêve qu'il occasionne à propos de Gilles Deleuze\n【【158】】yeux asombris\n【【159】】York Parade\n【【160】】zero\n【【161】】zoanalyse\n【【162】】zone limitée\n【【163】】ZU\n【【164】】φ* correspondent\n【【165】】Φ™\n【【166】】ΦΦ\n【【167】】Ф.\n\n相关词编号：",
+  "options": {
+    "maxTokens": 32768,
+    "maxRetries": 3,
+    "baseRetryDelayMs": 2000
+  }
+}
+```

@@ -1,0 +1,61 @@
+# rerun-Z4-Q4.log
+
+> **路径**: `问题一\runs\2026-09-24-cache-test-rerun\logs\rerun-Z4-Q4.log`  
+> **分类**: 文本输出  
+> **大小**: 27.7 KB  
+> **最后修改**: 2026-09-24T11:47:58.130Z  
+
+## 文件开头预览
+
+```log
+
+[2026-09-24 11:47:50] === recall-nouns-llm.js Z4-Q4 ===
+[llmClient] 快照根目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots
+LLM: https://api.deepseek.com model=deepseek-flash thinking=disabled
+加载数据...
+  chunk 数: 1446（无全局拼接）
+  名词数（原始）: 16244, 问题数: 15
+  ⚠️ FILTER_BLACKLIST=1 但黑名单文件不存在: C:\Users\Administrator\Desktop\chenggong-jiachi-master\完整的运作\noun-blacklist.json（跳过过滤）
+========== 拓扑链召回引擎（两步架构）==========
+全量名词: 16244, 问题数: 1
+Token预算分批: 最多2500 tokens/批次, 并发: 8, 拓扑窗口: 2 名词, 分数阈值: 80
+
+保留 14 个未参与本次运行的结果:
+  - Z1-Q1
+  - Z1-Q2
+  - Z1-Q3
+  - Z1-Q4
+  - Z2-Q1
+  - Z2-Q2
+  - Z2-Q3
+  - Z2-Q4
+  - Z3-Q1
+  - Z3-Q2
+  - Z3-Q3
+  - Z4-Q1
+  - Z4-Q2
+  - Z4-Q3
+
+--- [Z4-Q4] 根据本文档，拉康派的临床技术手册在哪里可以下载？ ---
+[llmClient] [Z4-Q4] 全新子目录，从 call-0001 开始编号
+
+[call-0001] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8277 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0002] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8279 字符
+  Max tokens: 32768
+  重试策略: 最多 3 次（仅网络错误/5xx/408/429）
+
+[call-0003] LLM 调用开始...
+  QuestionId: Z4-Q4
+  子目录: C:\Users\Administrator\Desktop\chenggong-jiachi-master\问题一\runs\2026-09-24-cache-test-rerun\snapshots\Z4-Q4
+  Prompt 长度: 8325 字符
+  Max tokens: 32768
+```
